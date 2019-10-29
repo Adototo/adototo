@@ -1,5 +1,10 @@
 # README
 
+Site de adoção de pets utilizando Ruby on Rails; 
+Projeto para a disciplina PMR3304 - Sistemas de Informção.
+
+Version 1.0.0
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
