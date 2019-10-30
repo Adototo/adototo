@@ -5,6 +5,8 @@ Projeto para a disciplina PMR3304 - Sistemas de Informção.
 
 Version 1.0.0
 
+(!) Atenção: Desativar AdBlock ao iniciar o servidor !
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
