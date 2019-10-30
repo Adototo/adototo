@@ -99,7 +99,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     erubi (1.9.0)
-    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7)
     ffi (1.11.1-x64-mingw32)
     formatador (0.2.5)
     globalid (0.4.2)
@@ -266,11 +266,11 @@ PLATFORMS
 DEPENDENCIES
   better_errors (>= 2.4)
   bootsnap (>= 1.4.2)
-  bulma-rails (>= 0.6.1)
+  bulma-rails (> 0.6.1)
   byebug
   capybara (>= 2.15)
   carrierwave
-  devise (>= 4.4)
+  devise (> 4.4)
   gravatar_image_tag (>= 1.2)
   guard (~> 2.14, >= 2.14.1)
   guard-livereload (~> 2.5, >= 2.5.2)
